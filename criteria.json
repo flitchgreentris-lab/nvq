@@ -167,7 +167,7 @@
       "id": "311.3.5",
       "unit": "311",
       "section": "311.3",
-      "count": 1,
+      "count": 2,
       "text": "use access equipment correctly.",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -176,7 +176,7 @@
       "id": "311.4.1",
       "unit": "311",
       "section": "311.4",
-      "count": 1,
+      "count": 2,
       "text": "demonstrate the correct procedures to follow in the event of injury to themselves or others.",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -185,7 +185,7 @@
       "id": "312.1.1a",
       "unit": "312",
       "section": "312.1",
-      "count": 1,
+      "count": 2,
       "text": "demonstrate workplace procedures for the safe handling, storage and disposal of hazardous materials and products, in accordance with any of the following: Environmental Protection Act",
       "kind": "range",
       "basis": "Handbook range alternative; assessor confirms applicable choices"
@@ -194,7 +194,7 @@
       "id": "312.1.1b",
       "unit": "312",
       "section": "312.1",
-      "count": 1,
+      "count": 2,
       "text": "demonstrate workplace procedures for the safe handling, storage and disposal of hazardous materials and products, in accordance with any of the following: the Hazardous Waste Regulations",
       "kind": "range",
       "basis": "Handbook range alternative; assessor confirms applicable choices"
@@ -203,7 +203,7 @@
       "id": "312.1.1c",
       "unit": "312",
       "section": "312.1",
-      "count": 1,
+      "count": 2,
       "text": "demonstrate workplace procedures for the safe handling, storage and disposal of hazardous materials and products, in accordance with any of the following: Pollution Prevention and Control Act",
       "kind": "range",
       "basis": "Handbook range alternative; assessor confirms applicable choices"
@@ -212,7 +212,7 @@
       "id": "312.1.1d",
       "unit": "312",
       "section": "312.1",
-      "count": 1,
+      "count": 2,
       "text": "demonstrate workplace procedures for the safe handling, storage and disposal of hazardous materials and products, in accordance with any of the following: Control of Pollution Act",
       "kind": "range",
       "basis": "Handbook range alternative; assessor confirms applicable choices"
@@ -221,7 +221,7 @@
       "id": "312.1.1e",
       "unit": "312",
       "section": "312.1",
-      "count": 1,
+      "count": 2,
       "text": "demonstrate workplace procedures for the safe handling, storage and disposal of hazardous materials and products, in accordance with any of the following: the Control of Noise at Work Regulations",
       "kind": "range",
       "basis": "Handbook range alternative; assessor confirms applicable choices"
@@ -365,7 +365,7 @@
       "id": "313.3.1",
       "unit": "313",
       "section": "313.3",
-      "count": 1,
+      "count": 2,
       "text": "comply with approved procedures to ensure effective co-ordination with other",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1022,7 +1022,7 @@
       "id": "316.1.2d",
       "unit": "316",
       "section": "316.1",
-      "count": 1,
+      "count": 2,
       "text": "ensure the Health and Safety of themselves and others within the work location in terms of: reporting of unsafe situations",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1085,7 +1085,7 @@
       "id": "316.2.1d",
       "unit": "316",
       "section": "316.2",
-      "count": 0,
+      "count": 2,
       "text": "terminate and connect conductors, cables and flexible cords in accordance with the installation specification, manufacturer instructions and IEE Wiring Regulations:MICC (with and without PVC sheath)",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1103,7 +1103,7 @@
       "id": "316.2.1f",
       "unit": "316",
       "section": "316.2",
-      "count": 0,
+      "count": 2,
       "text": "terminate and connect conductors, cables and flexible cords in accordance with the installation specification, manufacturer instructions and IEE Wiring Regulations:Armoured/braided flexible cables and cords",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1112,7 +1112,7 @@
       "id": "316.2.1g",
       "unit": "316",
       "section": "316.2",
-      "count": 0,
+      "count": 2,
       "text": "terminate and connect conductors, cables and flexible cords in accordance with the installation specification, manufacturer instructions and IEE Wiring Regulations:Data cables",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1121,7 +1121,7 @@
       "id": "316.2.1h",
       "unit": "316",
       "section": "316.2",
-      "count": 0,
+      "count": 2,
       "text": "terminate and connect conductors, cables and flexible cords in accordance with the installation specification, manufacturer instructions and IEE Wiring Regulations:Fibre optic cable",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1211,7 +1211,7 @@
       "id": "316.2.2i",
       "unit": "316",
       "section": "316.2",
-      "count": 0,
+      "count": 2,
       "text": "connect to electrical equipment and accessories, in accordance with the installation specification, manufacturer instructions and IEE Wiring Regulations:Data socket outlets",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
@@ -1283,7 +1283,7 @@
       "id": "316.3.3",
       "unit": "316",
       "section": "316.3",
-      "count": 1,
+      "count": 2,
       "text": "dispose of unwanted material and equipment in accordance with site procedures and statutory",
       "kind": "required",
       "basis": "Listed assessment criterion; assessor to confirm sufficient evidence"
